@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1761479322 source:c:\users\x1 yoga\documents\tp8ex3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<memory>
+	<algorithm>
+
